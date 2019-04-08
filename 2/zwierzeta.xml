@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zwierzeta>
+ <koty>
+ <kot>
+ <imie>bzik</imie>
+ <kolor>brązowy</kolor>
+ <rasa>tabby</rasa>
+ </kot>
+ </koty>
+ <psy>
+ <pies>
+ <imie>reksio</imie>
+ <kolor>brązowy</kolor>
+ <rasa>beagle cross</rasa>
+ </pies>
+ <pies>
+ <imie>azor</imie>
+ <kolor>czarny</kolor>
+ <rasa>lab cross</rasa>
+ </pies>
+ </psy>
+</zwierzeta>
